@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Ouldouz%20Pakpoour&fontSize=40)
 
-<!--
-**Ulduzpp/Ulduzpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me :star:
+- I am a Junior Computer Vision Developer.
+- I am interested in AI, CV, MV and Robotics.
+- How to reach me? scan the following QRcode =>
 
-Here are some ideas to get you started:
+  
+<p align="center">
+<img src="qr4.png" alt="QRcode" width="500" height="500"/>
+<img
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+ 
+
