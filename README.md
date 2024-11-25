@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
 
 
 
