@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp)]      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulduzpp&layout=compact)
+![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp)                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulduzpp&layout=donut)
 
 
 
