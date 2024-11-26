@@ -18,6 +18,12 @@
 ![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp&theme=radical)
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![README Visitor Count](https://readmevisitorcount.yourreplitusername.repl.co)](https://github.com/qaiik/readmevisitorcount)
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
  
