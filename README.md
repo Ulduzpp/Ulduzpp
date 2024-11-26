@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Profile views](https://gpvc.arturio.dev/[Ulduzpp])
+![Profile views](https://gpvc.arturio.dev/Ulduzpp)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
