@@ -20,9 +20,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![README Visitor Count](https://readmevisitorcount.yourreplitusername.repl.co)](https://github.com/qaiik/readmevisitorcount)
 
-
+![Profile views](https://gpvc.arturio.dev/[Ulduzpp])
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
