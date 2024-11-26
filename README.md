@@ -7,7 +7,7 @@
 - How to reach me? scan the following QRcode =>
 
   
-<p align="center">
+<p align="left">
 <img src="qr4.png" alt="QRcode" width="100" height="100"/>
 
 
@@ -16,7 +16,7 @@
   <img src="https://profile-counter.glitch.me/Ulduzpp/count.svg" />
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulduzpp&layout=compact&theme=radical)
 
@@ -24,7 +24,7 @@
 ![Ouldouz's github stats](https://github-readme-stats.vercel.app/api?username=Ulduzpp&theme=radical)
 
 
----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 
 
