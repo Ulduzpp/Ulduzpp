@@ -21,7 +21,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Profile views](https://gpvc.arturio.dev/Ulduzpp)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ulduzpp/count.svg" />
+</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
