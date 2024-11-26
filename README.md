@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Ouldouz%20Pakpoour&fontSize=40)
 
 ### About me :star:
-- I am a Computer Vision Developer.
-- I am interested in AI, CV, MV and Robotics.
+- I am an AI Developer.
+- I have specialty in image processing, computer vision and developing image related AI systems.
+- I am currently learning about NLP and LLMs.
 - How to reach me? scan the following QRcode =>
 
   
