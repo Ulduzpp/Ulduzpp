@@ -7,8 +7,13 @@
 
   
 <p align="center">
-<img src="qr4.png" alt="QRcode" width="500" height="500"/>
-<img
+<img src="qr4.png" alt="QRcode" width="50" height="50"/>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ulduzpp/count.svg" />
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,10 +26,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ulduzpp/count.svg" />
-</p>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
